@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DidYouKnowThat/static/css/main.7e9695c9.chunk.css",
+    "main.js": "/DidYouKnowThat/static/js/main.5a834f67.chunk.js",
+    "main.js.map": "/DidYouKnowThat/static/js/main.5a834f67.chunk.js.map",
+    "runtime-main.js": "/DidYouKnowThat/static/js/runtime-main.8499fc2a.js",
+    "runtime-main.js.map": "/DidYouKnowThat/static/js/runtime-main.8499fc2a.js.map",
+    "static/js/2.66be55d0.chunk.js": "/DidYouKnowThat/static/js/2.66be55d0.chunk.js",
+    "static/js/2.66be55d0.chunk.js.map": "/DidYouKnowThat/static/js/2.66be55d0.chunk.js.map",
+    "static/js/3.7c5f2694.chunk.js": "/DidYouKnowThat/static/js/3.7c5f2694.chunk.js",
+    "static/js/3.7c5f2694.chunk.js.map": "/DidYouKnowThat/static/js/3.7c5f2694.chunk.js.map",
+    "index.html": "/DidYouKnowThat/index.html",
+    "static/css/main.7e9695c9.chunk.css.map": "/DidYouKnowThat/static/css/main.7e9695c9.chunk.css.map",
+    "static/js/2.66be55d0.chunk.js.LICENSE.txt": "/DidYouKnowThat/static/js/2.66be55d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8499fc2a.js",
+    "static/js/2.66be55d0.chunk.js",
+    "static/css/main.7e9695c9.chunk.css",
+    "static/js/main.5a834f67.chunk.js"
+  ]
+}
